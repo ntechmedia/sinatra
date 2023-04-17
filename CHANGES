@@ -1,3 +1,6 @@
+= 1.2.10
+Backporting of support for if-Unmodified-Since (see https://github.com/sinatra/sinatra/commit/092157f6fbcb1b863fbf42757db22d76e94df628)
+
 = 1.2.9 (backports release) / 2013-03-15
 
 IMPORTANT: THIS IS THE LAST 1.2.x RELEASE, PLEASE UPGRADE.
